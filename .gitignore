@@ -1,0 +1,3 @@
+.venv/
+
+unstructured_data_ingestion/data/*
